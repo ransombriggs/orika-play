@@ -1,8 +1,9 @@
 *.class
 
-orika-play/orika-play.iws
-tmp
-test-result
+/orika-play/orika-play.iws
+/orika-play/tmp
+/orika-play/test-result
+/orika-play/out
 
 # Package Files #
 *.jar
