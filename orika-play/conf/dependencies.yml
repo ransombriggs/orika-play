@@ -2,3 +2,9 @@
 
 require:
     - play
+    - ma.glasnost.orika -> orika-core 1.0:
+        exclude:
+            - org.slf4j -> slf4j-simple *
+            - ma.glasnost.orika -> orika-eclipse-tools *
+            - org.hibernate -> hibernate-core *
+            - javassist -> javassist *
