@@ -1,5 +1,7 @@
 *.class
 
+orika-play/orika-play.iws
+
 # Package Files #
 *.jar
 *.war
