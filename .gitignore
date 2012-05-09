@@ -1,6 +1,8 @@
 *.class
 
 orika-play/orika-play.iws
+tmp
+test-result
 
 # Package Files #
 *.jar
